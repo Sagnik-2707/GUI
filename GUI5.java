@@ -6,7 +6,7 @@ public class GUI5
 {
     public static void main(String args[])
     {
-        new Frame5("Somethin random");
+        new Frame5("Something random");
     }   
 }
 class Frame5 
